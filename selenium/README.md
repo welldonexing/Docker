@@ -20,7 +20,7 @@
 |基础镜像|Centos|Alpine|
 |:---:|:---:|:---:|
 |标签|latest|alpine|
-|拉取指令|`docker pull chiupam/selnm:latest`|`docker pull chiupam/selnm:alpine`|
+|拉取指令|`docker pull chiupam/selenium:latest`|`docker pull chiupam/selenium:alpine`|
 |镜像体积|1.72G|441MB|
 |使用说明|[latest镜像使用说明](https://github.com/chiupam/Docker/blob/main/selenium/centos/README.md)|[alpine镜像使用说明](https://github.com/chiupam/Docker/blob/main/selenium/alpine/README.md)|
 
